@@ -23,7 +23,7 @@ body {
 .principal {
     background-image: url("img/fundo.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 105%;
     padding: 2em 0;
     text-align: center;
 }
